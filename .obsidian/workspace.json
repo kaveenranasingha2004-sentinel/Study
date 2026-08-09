@@ -11,10 +11,14 @@
             "id": "aa6aff360f7b5bc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Humanitarian_Intervention_Research/Sovereignty.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sovereignty"
             }
           }
         ]
@@ -182,5 +186,8 @@
     }
   },
   "active": "aa6aff360f7b5bc4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Humanitarian_Intervention_Research/Sovereignty.md",
+    "Humanitarian_Intervention_Research"
+  ]
 }
