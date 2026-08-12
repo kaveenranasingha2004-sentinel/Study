@@ -16,6 +16,15 @@ passing the enactment, it may legitimately be consulted to solve any ambiguity..
 
 Something that wasn't placed before the parliament cannot be given the power of a law. It violates the article 12 and the article 76 of the constitution.
 
+>The framers of the Constitution in their wisdom, has deliberately left out recognizing
+gender equality.
+
+*Is it a deliberate choice or a matter of time?*
+
+>This means that neither Article 12 nor Article 15 have permitted any deviation from the
+>Fundamental Right to the equal protection of the law which would damage or endanger morality. The point I make here is that the deviations from Article 12 are possible only to protect morality and not to endanger morality.
+
+*How morality and its interconnection with the law should be interpreted, being morality is an ever changing highly dynamic concept. *
 
 
 [^1]: Maxwell,*Interpretation of Statutes*, 10th Edn, p 137.

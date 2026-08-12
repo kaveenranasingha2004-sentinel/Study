@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanitarian_Intervention_Research/Sovereignty.md",
+                "file": "Cases/Gender Equality Bill Determination.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sovereignty"
+              "title": "Gender Equality Bill Determination"
             }
           }
         ]
@@ -185,8 +185,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "91c9a27404599291",
+  "active": "aa6aff360f7b5bc4",
   "lastOpenFiles": [
+    "Humanitarian_Intervention_Research/Resolved_Source_List_ULRC26.md",
+    "Humanitarian_Intervention_Research/PDFs/Resolved_Source_List_ULRC26.pdf",
+    "Humanitarian_Intervention_Research/PDFs",
     "Humanitarian_Intervention_Research/Sovereignty.md",
     "Untitled.md",
     "Humanitarian_Intervention_Research"
