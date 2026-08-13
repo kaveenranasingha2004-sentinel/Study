@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cases/Gender Equality Bill Determination.md",
+                "file": "Books/Three recurrent issues..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gender Equality Bill Determination"
+              "title": "Three recurrent issues."
             }
           }
         ]
@@ -187,11 +187,16 @@
   },
   "active": "aa6aff360f7b5bc4",
   "lastOpenFiles": [
+    "Books/Three recurrent issues..md",
+    "Cases/Gender Equality Bill Determination.md",
+    "Cases/Heather Mundy Case.md",
+    "Books/Untitled.md",
+    "Books",
+    "Articles",
     "Humanitarian_Intervention_Research/Resolved_Source_List_ULRC26.md",
     "Humanitarian_Intervention_Research/PDFs/Resolved_Source_List_ULRC26.pdf",
     "Humanitarian_Intervention_Research/PDFs",
     "Humanitarian_Intervention_Research/Sovereignty.md",
-    "Untitled.md",
     "Humanitarian_Intervention_Research"
   ]
 }
